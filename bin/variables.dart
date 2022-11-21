@@ -1,9 +1,9 @@
 void main(){
-  string name="Anu";
-  int   age   =20;
-  int phone   =23687347682;
-  double mark =8.3;
-  string email="anu@gmail.com";
+  String name="Anu";
+  int    age=20;
+  int phone =5326755126;
+  double mark=8.3;
+  String email="anu@gmail.com";
 
   print("----My Resume----");
   print("My name is $name");
