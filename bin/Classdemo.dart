@@ -19,10 +19,10 @@ void main(){
 
   Resume stu2 = Resume();
   print("Student 2 Resume");
-  print('Nme    = ${stu2.name ='Bibin'}');
+  print('Name    = ${stu2.name ='Bibin'}');
   print('Age    = ${stu2.age = 22}');
   print('phone  = ${stu2.phone = 9846657766}');
-  print('course =${Resume.course}');
+  print('course =${Resume.course='python'}');
 
 }
 
