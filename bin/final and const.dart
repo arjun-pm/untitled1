@@ -1,8 +1,8 @@
 void main(){
   String name="arjun";
   int age=21;
-  String course="flutter";
-  int pincode = 678684;
+  final String course="flutter";
+  const int pincode = 678684;
 
   print(name);
   print(age);
@@ -11,8 +11,8 @@ void main(){
 
   name="arun";
   age=20;
-  course="python";
-  pincode=678976;
+  // course="python";
+  // pincode=678976;
 
   print(name);
   print(age);
