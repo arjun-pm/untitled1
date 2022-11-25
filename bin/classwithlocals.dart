@@ -30,5 +30,4 @@ void main(){
   obj.sub();
   obj.mul();
   obj.div();
-
 }

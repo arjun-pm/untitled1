@@ -1,9 +1,10 @@
 class Youtube{
-  String name           = "Karthik surya";
-  int age               =29;
-  String channelName    ='karthik surya vlogs';
-  String subscribers    = "2.3M";
-  static String occupation= "youtuber";
+
+  String name              = "Karthik surya";
+  int age                  = 29;
+  String channelName       = "karthik surya vlogs";
+  String subscribers       = "2.3M";
+  static String occupation = "youtuber";
 
 }
 void main(){
